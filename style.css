@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+
+h1, h2, h3, h4, p, h5, body {
+	
+	font-family: 'Cormorant Garamond', serif;
+	 
+}
+body { margin: 0;
+padding: 0}
+
+
+
+ @media all and (max-device-width: 480px) {
+	 h1, h2, h3, h4, h5, p, body {
+		 font-size: 16px; 
+	 }
+	 .footer-widgets-wrapper {
+		 display:none;
+	 }
+	 
+}
+
+.footer-widgets-wrapper {
+	height: 160px;
+	
+
+}
+.footer-widgets-wrapper ul li {
+	display: inline-block;
+}
+
+.entry-content ul, .entry-content ol {
+	padding: 0px;
+	
+}
+.es-top-arrow a {
+	display: none; 
+}
+
+h1.header-post-title-class {
+	font-size: 50px; 
+	color: #cc894b; 
+
+}
