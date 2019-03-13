@@ -2,5 +2,5 @@
 
 
 
-visit site - http://dev-luxurychaletsandcavior.pantheonsite.io 
+</h3> visit site - http://dev-luxurychaletsandcavior.pantheonsite.io  </h3> 
 
