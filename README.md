@@ -16,6 +16,6 @@ Integrate a WordPress theme for a client - project2 - frontend path by openclass
   <li>provide WordPress instructions to the agency within a PDF (about how to add new chalets, edit existing ones, etc., so they have what they need in terms of instructions.)</li>
   
 </ul>
-
-</h3> visit site - http://dev-luxurychaletsandcavior.pantheonsite.io  </h3> 
+<h3> documentation - https://drive.google.com/open?id=1Qq_Aejxx4y6SoUwq3eOGYNfRaefLeRXT </h3> 
+<h3> visit site - http://dev-luxurychaletsandcavior.pantheonsite.io  </h3> 
 
